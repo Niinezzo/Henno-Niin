@@ -1,6 +1,6 @@
 # Tere! Olen Henno Niin 👋
 
-Õpin Haapsalu Kutsehariduskeskuses [eriala nimi].
+Õpin Haapsalu Kutsehariduskeskuses Info- ja kommunikatsioonitehnoloogia (IT-süsteemide suund).
 
 ## Minust
 
